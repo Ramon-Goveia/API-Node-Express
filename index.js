@@ -12,4 +12,4 @@ userRoute(app)
 
 app.get('/', (req, res) => res.send('Olá Mundo Express!'))
 
-app.listen(port, () => console.log(`API rodando na porta ${port}.`))
+app.listen(port, () => console.log(`API rodando na porta ${port}. http://localhost:3000/`))
