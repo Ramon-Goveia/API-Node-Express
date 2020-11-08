@@ -11,26 +11,26 @@ COMO RODAR O PROJETO BAIXADO
 
 Instalar todas as dependencias indicadas pelo package.json
 
-###npm install
+### npm install
 
 Rodar o projeto usando o nodemon
 
-###nodemon index.js
+### nodemon index.js
 
 SEQUENCIA PARA CRIAR O PROJETO
 
 Criar o arquivo package
 
-###npm init
+### npm init
 
 Gerencia as requisições, rotas e URLs, entre outra funcionalidades
 
-###npm install express
+### npm install express
 
 Instalar o módulo para reiniciar o servidor sempre que houver alteração no código fonte, g significa globalmente
 
-###npm install -g nodemon
+### npm install -g nodemon
 
 Rodar o projeto usando o nodemon
 
-###nodemon index.js
+### nodemon index.js
